@@ -4,7 +4,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. On
 ## Goal :
 Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-## Dataset:-
+## Dataset :
 
 Titanic dataset(4 categorical variables). There are 891 rows and 12 columns in this dataset.
 This dataset is imbalanced dataset where we need to predict two classes "Yes" or "No". In the dataset, there are less than 80% Majority class, so, I decided to go with accuracy as evaluation metric.
